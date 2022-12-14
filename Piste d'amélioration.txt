@@ -1,0 +1,8 @@
+=>Language
+=> Meta description
+=>Les mots-clés dans les différents alt 
+=>faibles contrastes
+=>textes trop petits, meilleurs visibilité du texte
+=>certains liens sont vident ( reseaux sociaux , etc.)
+=>liens redondants
+=>images trop lourdes, il faut changer le format des images, ils ne possèdent pas de widht ou height
